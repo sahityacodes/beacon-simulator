@@ -1,4 +1,10 @@
 # beacon-simulator
+
+Node JS Noble Scanner Code : https://github.com/sahityacodes/beacon-scanner <br/>
+Node IoT Server : https://github.com/sahityacodes/nodejs-iot-server<br/>
+React Dashboard : https://github.com/sahityacodes/react-beacon-dashboard
+
+https://github.com/sahityacodes/react-beacon-dashboard
 Simulates iBeacons
 
 Dependency:
